@@ -1,1 +1,3 @@
-console.log('hello world');
+import '../sass/styles.scss';
+
+console.log('Webpack Boilerplate');
